@@ -1,1 +1,4 @@
-# sample HTML application for educational purpose
+ sample HTML application for educational purpose .
+ <br>
+ Author - rutuja bhosale
+ 
